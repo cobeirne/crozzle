@@ -1,0 +1,21 @@
+1/10/2016 3:15:26 PM Info: Attempting to open crozzle C:\TEMP\Assessment Task 2\Files for Assessment\Test 1 - EASY.txt.
+1/10/2016 3:15:26 PM Info: Attempting to parse crozzle.
+1/10/2016 3:15:26 PM Info: Attempting to open configuration C:\TEMP\Assessment Task 2\Files for Assessment\Test 1 - EASY Configuration.txt.
+1/10/2016 3:15:26 PM Info: Attempting to parse configuration.
+1/10/2016 3:15:26 PM Info: Solving Crozzle.
+1/10/2016 3:20:27 PM Info: Validating Solution.
+1/10/2016 3:20:27 PM Info: 10 of 200 Words Solved, Score: 51
+1/10/2016 3:21:49 PM Info: Attempting to open crozzle C:\TEMP\Assessment Task 2\Files for Assessment\Test 2 - MEDIUM.txt.
+1/10/2016 3:21:49 PM Info: Attempting to parse crozzle.
+1/10/2016 3:21:49 PM Info: Attempting to open configuration C:\TEMP\Assessment Task 2\Files for Assessment\Test 2 - MEDIUM Configuration.txt.
+1/10/2016 3:21:49 PM Info: Attempting to parse configuration.
+1/10/2016 3:21:49 PM Info: Solving Crozzle.
+1/10/2016 3:26:16 PM Info: Validating Solution.
+1/10/2016 3:26:16 PM Info: 16 of 300 Words Solved, Score: 665
+1/10/2016 3:27:47 PM Info: Attempting to open crozzle C:\TEMP\Assessment Task 2\Files for Assessment\Test 3 - HARD.txt.
+1/10/2016 3:27:47 PM Info: Attempting to parse crozzle.
+1/10/2016 3:27:47 PM Info: Attempting to open configuration C:\TEMP\Assessment Task 2\Files for Assessment\Test 3 - HARD Configuration.txt.
+1/10/2016 3:27:47 PM Info: Attempting to parse configuration.
+1/10/2016 3:27:47 PM Info: Solving Crozzle.
+1/10/2016 3:32:50 PM Info: Validating Solution.
+1/10/2016 3:32:50 PM Info: 16 of 400 Words Solved, Score: 499
