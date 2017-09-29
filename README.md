@@ -1,1 +1,7 @@
-# crozzle
+# Crozzle Game
+
+The Crozzle Application models a word game in which the player arranges multiple words selected from a word pool onto a grid.  Points are awarded by the number of words placed, the different individual letters used and whether a word intersects with another.  The arrangement of words is constrained by the rules of different difficulty configurations.
+
+The main objective of this project was to develop a solver function.  The solver was required to automatically find the highest scoring arrangement of words for a given Crozzle.  The approach taken was to employ a Greedy Algorithm that uses recursive processing to find the best solution.  The recursive action of this algorithm is best represented by a tree, which at its root starts with an empty grid.  A new branch is created for any sub solutions equalling the next best word arrangement.  These branches propagate until all sub solutions are exhausted or the solver timeout is triggered.  Once completed the highest scoring solution within the node tree is returned as the best solution.
+
+The main challenge of this project was in achieving a high score within the 5-minute time limit.  Testing each word in every grid arrangement was not feasible due to the immense number of possibilities.  Therefore, heuristic pre-processing was required to significantly reduce the number of sub solutions passed to the Greedy Algorithm and improve the chances of finding a good score within the time limit.  A range of pre-processing techniques where required to achieve very good to excellent scores for the different difficulty configurations.
